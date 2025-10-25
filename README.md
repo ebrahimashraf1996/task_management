@@ -61,8 +61,13 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/ebrahimashraf1996/task_management_system
 cd task-management-api
+=======
+git clone https://github.com/ebrahimashraf1996/task_management
+cd task_management
+>>>>>>> 5db2933cdb7ff916b8f0eaf427f4a5cc91d8cd80
 ```
 
 ### 2. Install Dependencies
