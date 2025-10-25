@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ebrahimashraf1996/task_management
+git clone https://github.com/ebrahimashraf1996/task_management_system
 cd task-management-api
 ```
 
@@ -109,6 +109,7 @@ php artisan db:seed
 ```bash
 # Create Passport Client
 php artisan passport:client --personal
+php artisan passport:keys
 ```
 
 
